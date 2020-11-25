@@ -11,5 +11,5 @@
 - [ ] JavaScript
 
 ## 页面列表
-1. [HTML 笔记 1](https://sharlylv.github.io/learn-web/note.html)
-2. [HTML 笔记 2](https://sharlylv.github.io/learn-web/note2.html)
+1. [HTML 笔记](https://sharlylv.github.io/learn-web/learm-html)
+2. [Markdown 笔记](https://sharlylv.github.io/learn-web/learn-markdown)
