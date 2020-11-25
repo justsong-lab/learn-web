@@ -1,8 +1,8 @@
 # Note of HTML
-## brief introduction
+## Brief introduction
 HTML (HyperText Markup Language) 超文本标记语言--一种用于创建网页的标准标记语言
 
-## tags
+## Tags
 ### Basic file 基础文档
 ```html
 <!DOCTYPE html>
